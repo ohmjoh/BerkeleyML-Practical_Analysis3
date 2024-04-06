@@ -1,5 +1,7 @@
 # Bank Marketing Dataset Analysis
 
+[Link to the Jupyter Notebook] (https://github.com/ohmjoh/BerkeleyML-Practical_Analysis3/blob/main/Practical_Application_III.ipynb)
+
 ## Overview
 This repo contains Practical Application 3 from Berkeley Engineering & Berkeley Haas Professional Certificate in Machine Learning and Artificial Intelligence. 
 This project analyzes a dataset related to marketing bank products over the telephone. The dataset is sourced from a Portuguese banking institution and contains the results of multiple marketing campaigns. The main objective is to understand the factors that influence a client's decision to subscribe to a term deposit and to visualize the relationships between various features and the target variable.
