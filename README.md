@@ -1,6 +1,6 @@
 # Bank Marketing Dataset Analysis
 
-[Link to the Jupyter Notebook] (https://github.com/ohmjoh/BerkeleyML-Practical_Analysis3/blob/main/Practical_Application_III.ipynb)
+[Link to the Jupyter Notebook](https://github.com/ohmjoh/BerkeleyML-Practical_Analysis3/blob/main/Practical_Application_III.ipynb)
 
 ## Overview
 This repo contains Practical Application 3 from Berkeley Engineering & Berkeley Haas Professional Certificate in Machine Learning and Artificial Intelligence. 
